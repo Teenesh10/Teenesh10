@@ -14,6 +14,6 @@ Software Engineer Student @ Universiti Teknologi Malaysia
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/angularjs.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/flutter.png"/> 
 
-![Teenesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=teenesh10&theme=dark&show_icons=true&&hide=issues,contribs)
+![Teenesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=teenesh-s&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Teenesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teenesh10&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Teenesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teenesh-s&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
