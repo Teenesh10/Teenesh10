@@ -12,7 +12,8 @@ Software Engineering Student @ Universiti Teknologi Malaysia
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/angularjs.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/flutter.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/flutter.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/ionic.png"/> 
 
 ![Teenesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=teenesh10&theme=dark&show_icons=true&&hide=issues,contribs)
 
